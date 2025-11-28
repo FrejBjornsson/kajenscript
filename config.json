@@ -1,0 +1,11 @@
+{
+  "target_url": "https://www.kajengavle.se/lunch/",
+  "output_format": "json",
+  "output_file": "output/menu_data",
+  "save_to_file": false,
+  "timeout": 30,
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+  "headless": true,
+  "use_installed_chrome": true,
+  "verify_ssl": true
+}
