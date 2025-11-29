@@ -2,13 +2,13 @@
 
 En Python-baserad webscraper för att extrahera och analysera lunchmenyer från Kajen Gävle. Projektet använder Playwright för webscraping och genererar en interaktiv HTML-rapport med prisanalys och trendvisualisering.
 
-## 📋 Förutsättningar
+## Förutsättningar
 
 - Python 3.9 eller högre
 - Google Chrome installerad (för Playwright)
 - pip (Python-paketinstallatör)
 
-## 🚀 Installation
+## Installation
 
 1. Klona eller navigera till detta repository:
 ```bash
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```bash
 playwright install chromium
 ```
-## ⚙️ Konfiguration
+## Konfiguration
 
 Redigera `config.json` för att anpassa skraparen:
 
